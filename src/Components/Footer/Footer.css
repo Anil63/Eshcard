@@ -1,0 +1,67 @@
+.Fotter{
+    height: 30vh;
+    background-color: rgb(66, 66, 66);
+   /* background-image: url("https://email.uplers.com/blog/wp-content/uploads/2022/01/Step-Up-Your-Email-Footer-Game-With-These-Best-Practices.jpg");
+    */
+   
+    text-align: center;
+    padding-top: 20px;
+    
+}
+
+.logo{
+  border-radius: 50%;
+  background-color: black ;
+  cursor: pointer;
+  
+    
+}
+p{
+    border-bottom: 1px solid rgb(136, 134, 134);
+    width: 70%;
+    margin-left: 190px;
+    padding-bottom: 5px;
+}
+
+
+.fothead{
+    text-align: center;
+    color: rgb(130, 133, 136);
+    background-color: black;
+    font-size: 12px;
+    
+}
+
+
+.icon{
+   padding: 20px;
+}
+
+.ins{
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.nober
+{
+   margin-left: 40px;
+}
+
+.d1{
+    width: 40%;
+    position: relative;
+    padding: 15px;
+    display: inline;
+}
+
+.d2{
+    width: 40%;
+    position: relative;
+    padding: 15px;
+    display: inline;
+    
+}
+.logo2{
+    width: 60px;
+    border-radius: 50%;
+}

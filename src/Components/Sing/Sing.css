@@ -1,0 +1,233 @@
+.from_sing {
+  border: 2px solid black;
+  height: 50vh;
+}
+
+.sing_d {
+  text-align: center;
+  background-image: linear-gradient(90deg, #cfd9df 0%, #e2ebf0 100%);
+  margin: 20px;
+  margin-left: 50vh;
+  width: 40%;
+  height: 40vh;
+}
+
+.us {
+  width: 30%;
+  border: 1px solid black;
+}
+
+.pas {
+  width: 30%;
+  border: 1px solid black;
+}
+
+.user {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.other_link {
+  position: relative;
+  display: flex;
+}
+
+/* Sing up */
+
+.si {
+  height: 50vh;
+
+  margin: 50px;
+  width: 50%;
+  margin-left: 25%;
+}
+
+.contaner {
+  background-image: linear-gradient(90deg, #d3cce3 0%, #e9e4f0 100%);
+  margin: 5px;
+  height: 48vh;
+  text-align: center;
+}
+
+.sing_up_d {
+  border: 1px solid black;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  background: none;
+}
+
+.btn_sing {
+  margin-bottom: 50px;
+}
+
+.sub {
+  background-color: rgb(1, 45, 167);
+  color: rgb(247, 244, 248);
+  padding: 5px;
+  border-radius: 9px;
+  border: none;
+  width: 50px;
+}
+
+.googl {
+  margin: 5px;
+  padding: 5px;
+  background-color: rgb(28, 97, 245);
+  color: white;
+  border-radius: 9px;
+  border: none;
+  cursor: pointer;
+}
+
+.face {
+  margin: 5px;
+  padding: 5px;
+  background-color: rgb(28, 97, 245);
+  color: white;
+  border-radius: 9px;
+  border: none;
+  cursor: pointer;
+}
+
+.cre {
+  text-decoration: none;
+  margin: 10px;
+  color: rgb(2, 2, 90);
+}
+
+.cre:hover {
+  color: rgb(160, 92, 4);
+}
+
+.sing_byn_b {
+  padding: 5px;
+  background-color: rgb(45, 45, 248);
+  border: none;
+  border-radius: 9px;
+  width: 10%;
+  color: rgb(248, 246, 241);
+}
+
+
+/* login tsx file */
+
+.logins{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    background-color: #ccc;
+    height: 16em;
+
+}
+.loginlink{
+    margin-bottom: 10px;
+}
+.nav-bar-lis{
+    text-decoration: none;
+    color: #848788;
+}
+.nav-bar-lis:hover{
+    color: #161616;
+}
+.loinp{
+    padding: 2px;
+    border-radius: 3px;
+    border:1px solid gray;
+    width: 20rem;
+
+    
+}
+.loginbrn{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+
+
+}
+.lbtn{
+    padding: 5px;
+    border-radius: 4px;
+    border: none;
+background-color: #2398f8;
+
+}
+.lbtn:hover{
+    background-color: rgb(27, 187, 250);
+    color: rgb(65, 63, 63);
+}
+.other_login{
+padding: 10px;
+margin: 10px;
+display: flex;
+}
+
+.loginsa{
+background-color: #cae3f8;
+padding: 20px;
+border-radius: 5px;
+}
+/* login css */
+ /* Signup css */
+.sigdiv{
+   border: 1px solid #ccc;
+   background-color: #cfd9df;
+   margin: 20px 20px ;
+   padding: 20px;
+   display: flex;
+   justify-self: center;
+   align-items: center;
+
+   
+}
+.gignup{
+    display: flexbox;
+}
+.gignup{
+   position: relative;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   margin: 10px;
+
+}
+
+.gi{
+    margin: 10px;
+   padding: 10px;
+}
+.fing{
+    border: none;
+
+    border-radius: 5px;
+
+}
+
+.gin{
+    text-decoration: none;
+    margin: 10px;
+    color: #2398f8;
+    
+}
+.signo{
+   margin: 10px;
+}
+
+.signupntn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+.singbtn{
+    padding: 10px;
+    border-radius: 3px;
+    border: none;
+    background-color: #2398f8;
+}
+.singbtn:hover{
+    background-color: #0358f5;
+    color: #ccc;
+}
+
+ /*  Signup end */

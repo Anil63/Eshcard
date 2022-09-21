@@ -1,0 +1,128 @@
+*
+{
+    padding: 0;
+   
+}
+.p1 {
+  width: 100%;
+  cursor: pointer;
+}
+
+.wearTreand {
+  width: 20%;
+  font-family: "Rajdhani-Medium";
+  font-size: 50px;
+  font-weight: bold;
+  text-align: left;
+  padding-top: 2%;
+  letter-spacing: -1px;
+  color: rgb(49, 48, 47);
+  position: relative;
+  width: 10%;
+  display: inline-block;
+  height: 36vh;
+}
+
+.w1 {
+  margin-top: -19px;
+  width: 20%;
+  position: relative;
+}
+
+.TrendyTag {
+  font-family: "Futura-Medium";
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: -5px;
+}
+
+.imas {
+  position: relative;
+  display: inline;
+  padding: 0px;
+  height: auto;
+  width: 225px;
+}
+
+.trendtitle {
+  font-family: "Futura-Medium";
+  font-size: 18px;
+  font-weight: 600;
+  margin: 15px 0;
+  position: relative;
+  text-align: center;
+}
+.Wear {
+  /* width: 30%;
+    display: contents;
+    border: 2px solid black;
+     */
+
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: right;
+
+  height: 38vh;
+
+  text-align: center;
+ 
+  display: inline-block;
+ 
+
+}
+
+.gogl {
+  position: relative;
+  display: inline;
+  height: 35vh;
+
+}
+button:hover {
+  color: rgb(19, 230, 29);
+  background-color: rgba(22, 22, 21, 0.705);
+}
+
+.wear-btn {
+  background-color: black;
+  color: white;
+  padding: 9px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.font-head{
+    font-family: 'FuturaStd-Medium';
+    letter-spacing: 0.5px;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px 0;
+    
+}
+
+
+
+.imgs::after{
+  content: '';
+  display: table;
+  clear: both;
+}
+ .colums{
+    float: left;
+    width: 100%;
+    padding: 10px;
+   padding: 0 50px;
+ }
+
+
+
+ .img1{
+  width: 90vh;
+  padding: 5px;
+  cursor: pointer;
+ }
+ 
+
+ .vid{
+     width: 70%;
+
+ }
