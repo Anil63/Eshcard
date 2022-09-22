@@ -59,7 +59,7 @@ export default function Body(props) {
 <div className="font-head">
   <h4>video</h4>
   {/* autoplay ="true" with loop=:"true" */}
- <video className='vid' src={pic} autoplay="true" loop="true" >
+ <video className='vid' src={pic}  >
    {/* <source  src={pic}   /> */}
  </video>
 </div>

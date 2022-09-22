@@ -3,7 +3,7 @@ import Header from "./Components/Header/Header";
 import Footer from "./Components/Footer/Footer";
 import Result from "./Components/Sing/Result";
 import SingUp from "./Components/Sing/SingUp";
-import Login from "./Components/Sing/Login";
+// import Login from "./Components/Sing/Login";
 import About from "./Components/Page/About";
 import Contact from "./Components/Page/Contact";
 import Home from "./Components/Page/Home";
@@ -19,7 +19,7 @@ import PrivateComponent from "./Components/Sing/PrivateComponent";
 // import Result from "./Components/Sing/Result";
 
 function App() {
-  // const token = localStorage.getItem("auth");
+
   return (
     <div className="App">
       <Header />
@@ -29,7 +29,7 @@ function App() {
         <Route path="Home" element={<Home />} />
         <Route path="Contact" element={<Contact />} />
         <Route path="About" element={<About />} />
-        {/* {token ? <Route path="Login" /> : <Navigate to="Login"/>} */}
+       
 </Route>
         <Route path="Login" element={<Login2/>}/>
         <Route path="demo" element={<Signup2/>}/> 

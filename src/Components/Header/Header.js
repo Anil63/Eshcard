@@ -5,7 +5,7 @@ import { FiShoppingCart } from "react-icons/fi";
 import { Link } from "react-router-dom";
 
 import logo from "./logo2.svg";
-import Logins from "../Sing/logins";
+import Logins from "../Sing/Logins";
 
 export default function Header() {
   return (
